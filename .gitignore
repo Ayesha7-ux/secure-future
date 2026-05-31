@@ -1,1 +1,5 @@
-﻿node_modules/`n.env`n/dist`n.vscode/
+﻿node_modules/
+**/node_modules/
+.env
+dist
+.vscode/
